@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "88486720424",
+    "firebase_url": "https://herdkeep.firebaseio.com",
+    "project_id": "herdkeep",
+    "storage_bucket": "herdkeep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88486720424:android:952655cce9e14e86a3639d",
+        "android_client_info": {
+          "package_name": "com.aidandots.herdkeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88486720424-e4urq2mvc9v4dhck9seog4v8uk9gc5in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJpqc9ENHXbsl4B_bWzm5c0zBg7kp_RO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88486720424-e4urq2mvc9v4dhck9seog4v8uk9gc5in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
