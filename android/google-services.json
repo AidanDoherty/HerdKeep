@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "88486720424",
-    "firebase_url": "https://herdkeep.firebaseio.com",
-    "project_id": "herdkeep",
-    "storage_bucket": "herdkeep.appspot.com"
+    "project_number": "98408671548",
+    "firebase_url": "https://herdkeep-c46f9.firebaseio.com",
+    "project_id": "herdkeep-c46f9",
+    "storage_bucket": "herdkeep-c46f9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:88486720424:android:952655cce9e14e86a3639d",
+        "mobilesdk_app_id": "1:98408671548:android:b3102ccc688223f22cd639",
         "android_client_info": {
-          "package_name": "com.aidandots.herdkeep"
+          "package_name": "com.aidandoherty.herdkeep"
         }
       },
       "oauth_client": [
         {
-          "client_id": "88486720424-e4urq2mvc9v4dhck9seog4v8uk9gc5in.apps.googleusercontent.com",
+          "client_id": "98408671548-v3s4rpt7ceb2pgc3c5u6okhbg037gdg1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAJpqc9ENHXbsl4B_bWzm5c0zBg7kp_RO0"
+          "current_key": "AIzaSyCAjae0rlzPNxQ7EEGDBTyS8RmBjDyYSkE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "88486720424-e4urq2mvc9v4dhck9seog4v8uk9gc5in.apps.googleusercontent.com",
+              "client_id": "98408671548-v3s4rpt7ceb2pgc3c5u6okhbg037gdg1.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

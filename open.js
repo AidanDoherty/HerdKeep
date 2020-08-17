@@ -1,0 +1,1 @@
+while (i < 100){window.open('https://www.donedeal.ie/all?words=dresser&start=' +i,'aa'); i = i +28}
